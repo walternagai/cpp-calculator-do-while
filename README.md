@@ -2,7 +2,7 @@
 
 O programa implementa uma calculadora de quatro operações básicas: adição, subtração, multiplicação e divsão. Os operadores de cada operação são: +, -, * e /, respectivamente.
 
-Caso seja outro operador, a expressão não é calculada.
+Caso seja outro operador, a expressão não é calculada e o **programa deve parar sua execução**.
 
 # Exemplos
 
